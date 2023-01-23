@@ -1,2 +1,4 @@
 - 👋 My name is Zakariya Oulhadj
-- 📫 Visit my website at https://zakariyaoulhadj.com for more info.
+- My main interests include computer graphics and low-level architecture and optimisation.
+- I have experience with various programming languages such as C/C++, GLSL, HTML/CSS/JS and more.
+- 📫 Visit my personal website at https://zakariyaoulhadj.com for more info.
