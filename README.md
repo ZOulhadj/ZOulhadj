@@ -1,5 +1,7 @@
-- 👋 My name is Zakariya Oulhadj
-- My main interests include computer graphics and low-level architecture and optimisation.
-- I have experience with various programming languages such as C/C++, GLSL, Python, HTML/CSS/JS and more.
+- 👋 My name is Zakariya Oulhadj and I am 22 years old.
+- BSc Computer Science (First class with Honours) Graduate from The University of Roehampton.
+- My main interest is in Low-level software and hardware architecture with a particular focus on optimisation.
+- I am also interested in Computer Graphics using the GPU.
+- I have experience with various programming languages such as C/C++, Rust, Python, HTML/CSS/JS and more.
 - Experience in using the command line on both Windows and macOS/Linux.
-- 📫 Visit my personal website at https://zakariyaoulhadj.com for more info.
+- Visit [My Website](https://zakariyaoulhadj.com) to find out more.
