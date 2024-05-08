@@ -10,5 +10,5 @@
     - Multi-API support
     - Draw-call sorting
     - Shader hot-reloading
-    - A memory arean allocator for game resources
+    - A memory arena allocator for game resources
     
