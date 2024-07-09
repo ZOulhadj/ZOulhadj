@@ -6,9 +6,9 @@
 - Visit [My Website](https://zakariyaoulhadj.com) to find out more.
 
 - Currently working on my own game (private repo) that will have various features such as:
-    - Library hot-reloading
-    - Multi-API support
+    - Live hot-reloading
+    - Vulkan support with DX12 in the future.
     - Draw-call sorting
     - Shader hot-reloading
-    - A memory arena allocator for game resources
+    - Game memory pool with various arenas.
     
