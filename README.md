@@ -1,7 +1,7 @@
 - 👋 My name is Zakariya Oulhadj.
 - BSc Computer Science (First class with Honours) Graduate from The University of Roehampton.
 - My main interest is in Low-level software and hardware architecture with a particular focus on optimisation.
-- I am also interested in Computer Graphics using the GPU.
+- Also interested in rendering engine architecture, computer graphics and GPUs.
 - Experience in C/C++, Python, Full-stack web development, command line on both Windows and macOS/Linux.
 - Visit [My Website](https://zakariyaoulhadj.com) to find out more.
 
