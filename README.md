@@ -9,11 +9,16 @@
 
 - Visit [zakariyaoulhadj.com](https://zakariyaoulhadj.com) to find out more.
 
-- Currently working on my own rendering engine that will have various features such as:
+- Currently working on my custom rendering engine written in C, which will include:
     - Cross-platform support (Linux, Windows, macOS)
-    - Multiple rendering APIs (OpenGL, Vulkan, D3D12)
-    - Live code and shader hot-reloading
-    - Draw-call sorting
-    - Game memory pool with various arenas.
+    - Rendering Hardware Interface (RHI) via a command system
+        - Multiple rendering APIs (OpenGL 4.6, Vulkan 1.0, D3D12)
+    - Separation between core systems:
+        - Platform Layer
+        - Renderer Backend Layer
+        - Game Layer
+    - Live shared library and shader hot-reloading
+    - Draw-call sorting (Redundant state filtering)
+    - Memory arenas
     
 <img width="1815" height="633" alt="Screenshot From 2025-12-18 05-23-27" src="https://github.com/user-attachments/assets/ac4ca4ca-5de0-4cff-a607-5c0a46d3d6dd" />
