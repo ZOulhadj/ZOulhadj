@@ -22,4 +22,5 @@
     
 <img width="1815" height="633" alt="Screenshot From 2025-12-18 05-23-27" src="https://github.com/user-attachments/assets/ac4ca4ca-5de0-4cff-a607-5c0a46d3d6dd" />
 
-<img width="1863" height="1034" alt="Screenshot From 2026-01-06 00-37-03" src="https://github.com/user-attachments/assets/bb6746be-1405-4d37-a88c-c1ca5c554385" />
+<img width="1864" height="1147" alt="Screenshot From 2026-01-24 03-17-39" src="https://github.com/user-attachments/assets/8481dfa7-bac0-44af-a347-42290bfb3496" />
+
