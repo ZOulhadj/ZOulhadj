@@ -19,8 +19,9 @@
     - Live shared library and shader hot-reloading
     - Draw-call sorting (Redundant state filtering)
     - Memory arenas
-    
-<img width="1815" height="633" alt="Screenshot From 2025-12-18 05-23-27" src="https://github.com/user-attachments/assets/ac4ca4ca-5de0-4cff-a607-5c0a46d3d6dd" />
+ 
+<img width="1861" height="1154" alt="image" src="https://github.com/user-attachments/assets/c79df646-4178-4aa2-93a6-07cde6de546a" />
+
 
 <img width="1864" height="1147" alt="Screenshot From 2026-01-24 03-17-39" src="https://github.com/user-attachments/assets/8481dfa7-bac0-44af-a347-42290bfb3496" />
 
