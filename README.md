@@ -1,9 +1,9 @@
 
 # About Me
 - Hey, I’m Zak (Zakariya Oulhadj) 🇬🇧 🇨🇿 🇩🇿
-- M.Sc. High Performance Computing (First Class), University of Edinburgh (EPCC), 2025 — class medal recipient; ISC SCC25 competitor (TeamEPCC)
-- B.Sc. Computer Science (First Class with Honours), University of Roehampton, 2023
-- Interests: low-level software, rendering engine architectures, computer graphics, GPUs
+- M.Sc. High Performance Computing (First Class), [University of Edinburgh](https://www.ed.ac.uk/) (EPCC), 2025 — class medal recipient; ISC SCC25 competitor (TeamEPCC)
+- B.Sc. Computer Science (First Class with Honours), [University of Roehampton](https://www.roehampton.ac.uk/), 2023
+- Interests: Low-level Software, Game/Rendering Engine Architectures, Computer Graphics, Optimisation, GPUs
 - Languages: C, C++, Zig, Python, and web technologies
 
 
