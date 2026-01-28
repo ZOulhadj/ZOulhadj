@@ -15,7 +15,7 @@
 
 - Written in C
 - Cross-platform (Linux, Windows, macOS)
-- Rendering Hardware Interface (RHI) via a custom Render Command System [Find out more](https://github.com/ZOulhadj/engine/tree/5302a2fd6b51d058adc9f190471192833197c3d9/docs)
+- Rendering Hardware Interface (RHI) via a custom Render Command System
 - Multiple rendering APIs (OpenGL 4.6, Vulkan 1.0, D3D12, Metal)
 - Separation between core systems:
     - Platform Layer
