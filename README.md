@@ -1,4 +1,3 @@
-
 # About Me
 - Hey, I’m Zak (Zakariya Oulhadj) 🇬🇧 🇨🇿 🇩🇿
 - M.Sc. High Performance Computing (First Class), [University of Edinburgh](https://www.ed.ac.uk/) (EPCC), 2025 — class medal recipient; ISC SCC25 competitor (TeamEPCC)
