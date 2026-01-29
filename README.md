@@ -32,8 +32,8 @@
 <td width="40%" align="center">
 
 <img src="https://github.com/user-attachments/assets/607e3795-3bd0-41fd-a657-384abb6747ba" width="350"/>
+<img width="5335" height="3745" alt="render_abstraction_layer" src="https://github.com/user-attachments/assets/d92ac0c6-f4a0-44f4-b09f-a86fe9880d11" />
 
-<img width="2668" height="1872" alt="image" src="https://github.com/user-attachments/assets/198bc808-f335-447f-92c3-d6be1bcc22cc" />
 
 
 </td>
