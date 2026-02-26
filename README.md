@@ -13,7 +13,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- Written in C
+- Written in C and Zig.
 - Cross-platform (Linux, Windows, macOS)
 - Rendering Hardware Interface (RHI) via a custom Render Command System
 - Multiple rendering APIs (OpenGL 4.6, Vulkan 1.0, D3D12, Metal)
