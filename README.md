@@ -30,8 +30,8 @@
 
 </td>
 <td width="40%" align="center">
-
-<img src="https://github.com/user-attachments/assets/607e3795-3bd0-41fd-a657-384abb6747ba" width="350"/>
+    
+![preview](https://github.com/user-attachments/assets/85e4877a-4a1b-4dd3-a426-a68fe801bb6d)
 <img width="5335" height="3745" alt="render_abstraction_layer" src="https://github.com/user-attachments/assets/d92ac0c6-f4a0-44f4-b09f-a86fe9880d11" />
 
 
